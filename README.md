@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nguyen Ngoc Hai Luan, a Viet Nam Data Engineer</h1>
-<h3 align="left">Tech stack</h3>
 <p align="left">
 </p>
 
